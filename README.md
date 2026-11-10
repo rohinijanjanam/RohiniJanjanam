@@ -2,7 +2,7 @@
 
 💻 Aspiring Web Developer  
 🚀 Passionate about building real-world projects  
-📍 Looking for Internship Opportunities in Bangalore  
+📍 Looking for Internship Opportunities  
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript  
